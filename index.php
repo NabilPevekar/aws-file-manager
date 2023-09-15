@@ -4,7 +4,7 @@ require 'vendor/autoload.php'; // Load the AWS SDK
 use Aws\S3\S3Client;
 
 // AWS S3 Configuration
-$bucketName = 'your-bucket-name';
+$bucketName = 'main_page';
 $accessKey = 'your-access-key';
 $secretKey = 'your-secret-key';
 
